@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberOfIslands", "NumberOfIslands\NumberOfIslands.csproj", "{A7122064-2170-4944-B537-613B2A69CAAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insert Delete GetRandom", "Insert Delete GetRandom\Insert Delete GetRandom.csproj", "{C8DAD0B7-60B9-451A-9308-33E575DB6D38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Insert Delete GetRandom", "Insert Delete GetRandom\Insert Delete GetRandom.csproj", "{C8DAD0B7-60B9-451A-9308-33E575DB6D38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid_Palindrome", "Valid_Palindrome\Valid_Palindrome.csproj", "{3FC87575-1806-4259-8D06-F5F79F28507C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C8DAD0B7-60B9-451A-9308-33E575DB6D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8DAD0B7-60B9-451A-9308-33E575DB6D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8DAD0B7-60B9-451A-9308-33E575DB6D38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FC87575-1806-4259-8D06-F5F79F28507C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FC87575-1806-4259-8D06-F5F79F28507C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FC87575-1806-4259-8D06-F5F79F28507C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FC87575-1806-4259-8D06-F5F79F28507C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
