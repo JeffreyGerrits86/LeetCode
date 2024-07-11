@@ -1,0 +1,12 @@
+# Ignore bin directory
+/Dev/LeetCode/*/*/bin
+/Dev/LeetCode/*/bin
+
+# Ignore obj directory
+/Dev/LeetCode/*/*/obj
+/Dev/LeetCode/*/obj
+
+/Dev/LeetCode/.vs
+
+bin
+obj
